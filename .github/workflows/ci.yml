@@ -1,0 +1,26 @@
+name: Zero-PII Privacy Guard & Streamlit QA
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python 3.13
+        run: uv python install 3.13
+
+      - name: Install dependencies
+        run: uv sync --python 3.13
+
+      - name: Run Zero-PII Privacy Guard, Data Quality & Streamlit AppTest Suite
+        run: uv run pytest -v

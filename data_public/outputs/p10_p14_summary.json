@@ -1,0 +1,14 @@
+{
+  "p10_median_survival_days": 27.43,
+  "p10_survival_d7_pct": 67.51,
+  "p10_survival_d14_pct": 61.12,
+  "p10_survival_d30_pct": 48.91,
+  "p12_onboarding_logrank_p": 1.77685e-24,
+  "p12_median_msgs_with_onb": 93.0,
+  "p12_median_msgs_without_onb": 10.0,
+  "p13_fast_reply_n": 374,
+  "p13_slow_reply_n": 24,
+  "p13_lifespan_p_value": 0.61367,
+  "p14_global_msgs_delta_pct": 82.29,
+  "p14_core_msgs_delta_pct": 49.96
+}

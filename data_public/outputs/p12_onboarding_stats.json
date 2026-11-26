@@ -1,0 +1,46 @@
+{
+  "n_with_onboarding": 204,
+  "n_without_onboarding": 194,
+  "logrank_stat": 104.2572,
+  "logrank_p_value": 1.77685e-24,
+  "median_survival_with_onb": 59.28,
+  "median_survival_without_onb": 4.94,
+  "metrics_mann_whitney": {
+    "total_messages": {
+      "median_with_onboarding": 93.0,
+      "median_without_onboarding": 10.0,
+      "mean_with_onboarding": 688.2,
+      "mean_without_onboarding": 70.39,
+      "u_stat": 31150.0,
+      "p_value": 3.77481e-23,
+      "effect_size_rb": -0.5742
+    },
+    "active_days": {
+      "median_with_onboarding": 6.0,
+      "median_without_onboarding": 2.0,
+      "mean_with_onboarding": 15.4,
+      "mean_without_onboarding": 4.13,
+      "u_stat": 29341.0,
+      "p_value": 3.20373e-17,
+      "effect_size_rb": -0.4828
+    },
+    "lifespan_days": {
+      "median_with_onboarding": 10.0,
+      "median_without_onboarding": 1.0,
+      "mean_with_onboarding": 23.82,
+      "mean_without_onboarding": 8.94,
+      "u_stat": 28058.5,
+      "p_value": 2.41658e-13,
+      "effect_size_rb": -0.418
+    },
+    "groups_count": {
+      "median_with_onboarding": 4.0,
+      "median_without_onboarding": 1.0,
+      "mean_with_onboarding": 4.93,
+      "mean_without_onboarding": 1.75,
+      "u_stat": 33607.5,
+      "p_value": 2.56637e-35,
+      "effect_size_rb": -0.6984
+    }
+  }
+}

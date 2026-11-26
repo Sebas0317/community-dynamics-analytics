@@ -1,0 +1,30 @@
+{
+  "spearman_core_vs_subgroups": 0.4685,
+  "p_value": 4.90532e-05,
+  "launch_studies": [
+    {
+      "group_id": "G19_GEO_OCCIDENTE",
+      "group_label": "Zona Occidente Bogotá",
+      "launch_date": "2026-10-28",
+      "core_daily_before": 932.9,
+      "core_daily_after": 2296.0,
+      "core_delta_pct": 146.13,
+      "total_daily_before": 1311.6,
+      "total_daily_after": 4595.3,
+      "total_delta_pct": 250.36,
+      "verdict": "Expansión Neta"
+    },
+    {
+      "group_id": "G02_SOCIAL_CHAT_LIBRE",
+      "group_label": "Chat Libre Social",
+      "launch_date": "2026-11-05",
+      "core_daily_before": 2429.0,
+      "core_daily_after": 605.1,
+      "core_delta_pct": -75.09,
+      "total_daily_before": 4517.0,
+      "total_daily_after": 2938.0,
+      "total_delta_pct": -34.96,
+      "verdict": "Canibalización"
+    }
+  ]
+}

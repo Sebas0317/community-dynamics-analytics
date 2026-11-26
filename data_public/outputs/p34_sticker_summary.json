@@ -1,0 +1,11 @@
+{
+  "total_sticker_files_indexed": 11103,
+  "unique_sticker_fingerprints": 6830,
+  "reused_stickers_count": 2318,
+  "reuse_rate_pct": 38.49,
+  "cross_group_viral_stickers": 2318,
+  "animated_stickers_pct": 33.76,
+  "sticker_concentration_gini": 0.2967,
+  "top_sticker_uses": 13,
+  "top_sticker_groups": 13
+}

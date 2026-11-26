@@ -1,0 +1,40 @@
+# === PRIVATE DATA & SECRETS (NEVER COMMIT) ===
+.env
+.env.*
+*.salt
+*.key
+data_private/
+staging_private.db*
+analytics.db*
+exportaciones_raw*/
+raw_drops/
+*.zip
+*.txt
+!requirements.txt
+*.webp
+*.jpg
+*.jpeg
+*.png
+!reports/figures/*.png
+*.opus
+*.mp4
+*.mp3
+*.m4a
+*.vcf
+
+# === PYTHON & CACHE ===
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# === OS / IDE ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

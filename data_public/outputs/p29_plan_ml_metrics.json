@@ -1,0 +1,13 @@
+{
+  "target_definition": "unique_responders_2h >= 22",
+  "total_plans_modeled": 1104,
+  "positive_class_rate_pct": 36.5,
+  "logistic_regression_cv_roc_auc": 0.7794,
+  "random_forest_cv_roc_auc": 0.8375,
+  "selected_model": "Random Forest",
+  "selected_cv_roc_auc": 0.8375,
+  "selected_cv_precision": 0.7143,
+  "selected_cv_recall": 0.5335,
+  "selected_cv_f1": 0.6108,
+  "top_feature": "macro_category"
+}

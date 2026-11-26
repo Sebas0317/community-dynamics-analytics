@@ -1,0 +1,29 @@
+{
+  "purge_date": "2026-10-31",
+  "before_days": 14,
+  "after_days": 11,
+  "total_msgs_global": {
+    "before_mean": 1910.5,
+    "after_mean": 3482.64,
+    "delta_pct": 82.29,
+    "p_value": 0.162716
+  },
+  "core_msgs": {
+    "before_mean": 935.57,
+    "after_mean": 1403.0,
+    "delta_pct": 49.96,
+    "p_value": 0.528899
+  },
+  "dau_global": {
+    "before_mean": 53.79,
+    "after_mean": 80.27,
+    "delta_pct": 49.25,
+    "p_value": 0.0517822
+  },
+  "dau_core": {
+    "before_mean": 42.36,
+    "after_mean": 53.09,
+    "delta_pct": 25.34,
+    "p_value": 0.118209
+  }
+}

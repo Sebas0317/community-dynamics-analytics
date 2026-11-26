@@ -1,0 +1,16 @@
+{
+  "p15_active_nodes": 391,
+  "p15_directed_edges": 11323,
+  "p15_louvain_clusters": 4,
+  "p15_modularity_q": 0.1718,
+  "p16_spearman_vol_vs_betweenness": 0.6219,
+  "p16_p_vol_vs_betweenness": 3.15287e-43,
+  "p16_spearman_vol_vs_pagerank": 0.9731,
+  "p16_silent_bridges_count": 9,
+  "p17_avg_clustering": 0.7207,
+  "p17_degree_assortativity": -0.3439,
+  "p18_lcc_after_10pct_betweenness_removal": 71.76,
+  "p18_lcc_after_10pct_random_removal": 89.18,
+  "p19_global_reciprocity": 0.777,
+  "p19_mutual_dyads_pct": 63.53
+}

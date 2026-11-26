@@ -1,0 +1,143 @@
+{
+  "generated_at_utc": "2026-11-26T13:42:22.644886+00:00",
+  "privacy_standard": "Ley 1581 de 2012 (Colombia) — Zero-PII Privacy-by-Design",
+  "anonymization_method": "HMAC-SHA256 with ephemeral in-memory 256-bit salt (discarded after run)",
+  "raw_text_exported": false,
+  "raw_media_exported": false,
+  "excluded_private_patterns_count": 15,
+  "date_range": {
+    "min_dt": "2026-09-04 17:14:00",
+    "max_dt": "2026-11-11 08:35:00"
+  },
+  "tables": {
+    "groups_anon": {
+      "rows": 20,
+      "columns": [
+        "group_id",
+        "group_label",
+        "macro_category",
+        "sub_archetype",
+        "bogota_zone",
+        "total_messages",
+        "user_messages",
+        "system_messages",
+        "media_messages",
+        "deleted_messages",
+        "unique_members",
+        "first_dt",
+        "last_dt",
+        "active_days",
+        "span_days"
+      ],
+      "size_kb": 11.6
+    },
+    "members_anon": {
+      "rows": 398,
+      "columns": [
+        "member_id",
+        "total_messages",
+        "text_messages",
+        "media_messages",
+        "deleted_messages",
+        "total_words",
+        "total_emojis",
+        "avg_sentiment",
+        "groups_count",
+        "first_dt",
+        "last_dt",
+        "active_days",
+        "lifespan_days"
+      ],
+      "size_kb": 24.6
+    },
+    "messages_meta": {
+      "rows": 162831,
+      "columns": [
+        "message_id",
+        "group_id",
+        "msg_index",
+        "dt_iso",
+        "date_str",
+        "hour",
+        "day_of_week",
+        "member_id",
+        "is_system",
+        "is_media",
+        "is_deleted",
+        "message_type",
+        "media_subtype",
+        "word_count",
+        "char_count",
+        "emoji_count",
+        "question_count",
+        "exclamation_count",
+        "has_question",
+        "has_url",
+        "has_laughter",
+        "has_mention",
+        "is_caps_shout",
+        "sentiment_score",
+        "sentiment_label",
+        "theme_category",
+        "topic_id"
+      ],
+      "size_kb": 2814.5
+    },
+    "events_anon": {
+      "rows": 3420,
+      "columns": [
+        "event_id",
+        "group_id",
+        "dt_iso",
+        "date_str",
+        "event_type",
+        "member_id",
+        "message_id"
+      ],
+      "size_kb": 67.8
+    },
+    "plans_anon": {
+      "rows": 1104,
+      "columns": [
+        "plan_id",
+        "group_id",
+        "dt_iso",
+        "date_str",
+        "plan_category",
+        "initiator_member_id",
+        "message_id"
+      ],
+      "size_kb": 28.0
+    },
+    "media_meta": {
+      "rows": 15063,
+      "columns": [
+        "media_id",
+        "message_id",
+        "group_id",
+        "member_id",
+        "dt_iso",
+        "date_str",
+        "media_subtype",
+        "file_size_bytes",
+        "media_hash",
+        "width",
+        "height",
+        "aspect_ratio",
+        "is_animated",
+        "duration_sec"
+      ],
+      "size_kb": 578.2
+    },
+    "topic_catalog": {
+      "rows": 8,
+      "columns": [
+        "topic_id",
+        "topic_label",
+        "top_keywords",
+        "doc_count"
+      ],
+      "size_kb": 3.6
+    }
+  }
+}

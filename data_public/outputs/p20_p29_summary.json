@@ -1,0 +1,12 @@
+{
+  "p20_spearman_core_vs_subgroups": 0.4685,
+  "p21_top_transition": "Núcleo General -> Canal Onboarding (72)",
+  "p22_top_jaccard_pair": "Núcleo General <-> Canal Onboarding (J=0.4575)",
+  "p25_total_plans": 1104,
+  "p25_high_traction_threshold": 22,
+  "p27_spearman_betweenness_vs_traction": 0.0266,
+  "p27_spearman_volume_vs_traction": 0.0251,
+  "p28_pin_impact_p": 1.59863e-28,
+  "p29_best_model": "Random Forest",
+  "p29_cv_roc_auc": 0.8375
+}

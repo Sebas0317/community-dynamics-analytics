@@ -1,0 +1,22 @@
+{
+  "p01_avg_dau": 57.1,
+  "p01_peak_dau": 119,
+  "p01_avg_stickiness": 0.3487,
+  "p02_global_gini": 0.8453,
+  "p02_share_top_1pct": 19.26,
+  "p02_share_next_9pct": 56.24,
+  "p02_share_bottom_90pct": 24.5,
+  "p02_share_top_20pct": 91.69,
+  "p02_pareto_80_members": 46,
+  "p04_spearman_vol_vs_deleted": 0.8224,
+  "p04_p_vol_vs_deleted": 0.0,
+  "p04_spearman_vol_vs_friction": 0.8334,
+  "p05_total_join_events": 2298,
+  "p05_core_joins": 686,
+  "p05_activation_pct_vs_core_joins": 58.02,
+  "p06_peak_hour_global": 17,
+  "p08_median_frt_global_sec": 0.0,
+  "p09_burst_days_count": 5,
+  "p09_acf_lag1": 0.537,
+  "p09_next_day_pct_of_burst": 62.92
+}

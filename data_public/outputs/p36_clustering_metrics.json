@@ -1,0 +1,30 @@
+{
+  "k_selected": 6,
+  "silhouette_scores_by_k": {
+    "4": 0.2528,
+    "5": 0.1995,
+    "6": 0.1962,
+    "7": 0.1887
+  },
+  "selected_silhouette": 0.1962,
+  "pca_explained_variance_pct": [
+    43.07,
+    14.88
+  ],
+  "features_used": [
+    "log_messages",
+    "active_days",
+    "lifespan_days",
+    "groups_count",
+    "betweenness",
+    "pagerank",
+    "degree_undirected",
+    "media_ratio",
+    "sticker_ratio",
+    "voice_ratio",
+    "avg_words",
+    "laughter_rate",
+    "avg_sentiment",
+    "log_plans"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "p30_most_positive_group": "Convocatoria Fútbol",
+  "p30_most_negative_group": "Humor y Desahogo",
+  "p31_avg_words_global": 6.2,
+  "p31_avg_burst_pct": 25.16,
+  "p34_unique_stickers": 6830,
+  "p34_sticker_reuse_rate_pct": 38.49,
+  "p34_cross_group_viral_stickers": 2318,
+  "p35_median_voice_note_sec": 8.3,
+  "p35_median_video_sec": 5.8,
+  "p35_short_vs_long_voice_reply_p": 0.992685,
+  "p36_archetypes_k": 6,
+  "p36_silhouette_score": 0.1962
+}
