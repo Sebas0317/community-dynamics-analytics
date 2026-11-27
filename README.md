@@ -179,7 +179,7 @@ uv run python -m pipeline.run_all --drop-dir "/path/to/new_export_drop" --run-te
 
 ## Author
 
-**Kevin Sebastián (`Sebas0317`)** — Data Analyst & Community Founder (Bogotá, Colombia)  
-GitHub: [@Sebas0317](https://github.com/Sebas0317)
+**Juan Sebastián Sandoval (`Sebas0317`)** — Data Analyst & Community Founder (Bogotá, Colombia)  
+GitHub: [@Sebas0317](https://github.com/Sebas0317) · LinkedIn: [Juan Sebastián Sandoval](https://www.linkedin.com/in/juan-sebastian-sandoval-686264292)
 
 Licensed under the [MIT License](LICENSE).
